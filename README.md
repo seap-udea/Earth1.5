@@ -1,8 +1,8 @@
 # Earth1.5
 Global Environmental Model including Biotic Regulation
 
-Useful links
-------------
+Sicence
+-------
 
 If you are visiting this repository looking for the scientific
 material pleas refer directly to the Manuscript directoy or download
@@ -29,7 +29,14 @@ Presentation
 
 **Earth1.5** is a Global Environmental Model intended to simulate the
 evolution of key environmental variables on a planet inhabited by a
-widespread biota.
+widespread biota.  
+
+The aim of this package is to study the role that life could have at
+determining the equilibrium habitable state of a Habitable Planet.  We
+call this type of planets "Inhabited Habitable Worlds".
+
+To read about the science behind this project please refere to the
+Science section at the beginning of this file.
 
 Getting a copy
 --------------
