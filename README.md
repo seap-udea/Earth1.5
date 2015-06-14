@@ -1,5 +1,6 @@
 # Earth1.5
 Global Environmental Model including Biotic Regulation
+Jorge I. Zuluaga and Juan F. Salazar
 
 Warning
 -------
