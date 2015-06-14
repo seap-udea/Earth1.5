@@ -1,5 +1,6 @@
 # Earth1.5
 Global Environmental Model including Biotic Regulation
+
 Jorge I. Zuluaga and Juan F. Salazar
 
 Warning
@@ -110,4 +111,4 @@ The symbol `[)]` means that it has been developed under the principles
 of the [copyleft philosophy](http://en.wikipedia.org/wiki/Copyleft).
 
 All wrongs reserved to [Jorge
-I. Zuluaga](mailto:jorge.zuluaga@udea.edu.co).
+I. Zuluaga and Juan F. Salazar](mailto:jorge.zuluaga@udea.edu.co).
