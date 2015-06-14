@@ -1,13 +1,16 @@
-
 #LIBDIR=/Users/jzuluaga/usr
 LIBDIR=/usr/local
 LIBGSL=$(LIBDIR)
 LIBCONFIG=util
 
 CPP=g++
+# With LIBCONFIG
 # LFLAGS=-lm -L$(LIBDIR)/lib -lgsl -lgslcblas -L$(LIBCONFIG)/lib/ -lconfig++
-LFLAGS=-lm $(LIBDIR)/lib/libgsl.a $(LIBDIR)/lib/libgslcblas.a $(LIBCONFIG)/lib/libconfig++.a
-CFLAGS=-c -I. -I$(LIBGSL)/include -I$(LIBCONFIG)/include
+# LFLAGS=-lm $(LIBDIR)/lib/libgsl.a $(LIBDIR)/lib/libgslcblas.a $(LIBCONFIG)/lib/libconfig++.a
+# CFLAGS=-c -I. -I$(LIBGSL)/include -I$(LIBCONFIG)/include
+# Without LIBCONFIG
+LFLAGS=-lm $(LIBDIR)/lib/libgsl.a $(LIBDIR)/lib/libgslcblas.a 
+CFLAGS=-c -I. -I$(LIBGSL)/include 
 
 %.out:%.o
 	$(CPP) $^ $(LFLAGS) -o $@
