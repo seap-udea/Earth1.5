@@ -8,8 +8,15 @@ If you are visiting this repository looking for the scientific
 material pleas refer directly to the Manuscript directoy or download
 the manuscripts from the links below:
 
-- Link 1.
-- Link 2
+- Fernando Salazar, Juan, and Germán Poveda. "Role of a simplified
+  hydrological cycle and clouds in regulating the climate–biota system
+  of Daisyworld." Tellus B 61.2 (2009): 483-497. [Download Manuscript]
+  (http://github.com/seap-udea/Earth1.5/raw/master/Manuscripts/SalazarPoveda2009-HydrologicDaisyworld.pdf)
+
+- Zuluaga, Jorge I., Juan F. Salazar, Pablo Cuartas-Restrepo, and
+  German Poveda. "The Habitable Zone of Inhabited Planets.",
+  Biogeosciences Discuss., 11, 8443-8483, (2014) [Download
+  Manuscript](https://github.com/seap-udea/Earth1.5/raw/master/Manuscripts/ZuluagaSalazar2014-InHZ.pdf)
 
 Presentation
 ------------
