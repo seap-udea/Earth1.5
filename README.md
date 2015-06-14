@@ -4,10 +4,19 @@ Global Environmental Model including Biotic Regulation
 Useful links
 ------------
 
+If you are visiting this repository looking for the scientific
+material pleas refer directly to the Manuscript directoy or download
+the manuscripts from the links below:
+
+- Link 1.
+- Link 2
+
 Presentation
 ------------
 
-This is Earth1.5.
+**Earth1.5** is a Global Environmental Model intended to simulate the
+evolution of key environmental variables on a planet inhabited by a
+widespread biota.
 
 Getting a copy
 --------------
