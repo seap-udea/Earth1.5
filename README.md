@@ -1,6 +1,13 @@
 # Earth1.5
 Global Environmental Model including Biotic Regulation
 
+Warning
+-------
+
+This project is under development.  The version released here is an
+alpha undocumented version of a larger and more usable project.  Stay
+tunned for updates and for the official release of the Beta version.
+
 Sicence
 -------
 
